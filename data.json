@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "name": "Airdrop Contract",
+      "value": "0xFa0E394d547242A4d0a9FfFe091F7B6a8348847D"
+    },
+    {
+      "id": 2,
+      "name": "Airdrop Fee in Wei",
+      "value": "1700000000000000"
+    },
+    {
+      "id": 3,
+      "name": "Title",
+      "value": "WELCOME NIGHTCRAWLER"
+    },
+    {
+      "id": 4,
+      "name": "Description",
+      "value": "Hoot hoot! You've proven yourself a worthy owl. Your airdrop tokens awaits you!."
+    },
+    {
+      "id": 5,
+      "name": "Token Contract",
+      "value": "0x38C05AFC91d8251CEb7C74271a99a910ae301991"
+    },
+    {
+      "id": 6,
+      "name": "Token Symbol",
+      "value": "GWOL"
+    },
+    {
+      "id": 7,
+      "name": "Airdrop Amount",
+      "value": "1000"
+    },
+    {
+      "id": 8,
+      "name": "Airdrop Type: single or multi",
+      "value": "multi"
+    },
+    {
+      "id": 9,
+      "name": "Owner Wallet",
+      "value": "0x524eA0b390ce5b9c3023FA990a87841307cB0652"
+    },
+    {
+      "id": 10,
+      "name": "Chain Name",
+      "value": "Binance Smart Chain"
+    },
+    {
+      "id": 11,
+      "name": "Chain ID",
+      "value": "56"
+    }
+
+  ]
